@@ -20,13 +20,13 @@ Here are some ideas to get you started:
         😊 ¡take what you like!
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valbornoz&label=Profile%20views&color=0e75b6&style=flat" alt="valbornoz" /> </p>
-<h1 align="center">😏 Yo soy Victor Albornoz</h1>
+<h1 align="center">💫 I am Victor Albornoz 🐍</h1>
 <br/>
 <!--<h3 align="center">Programador en multiples tecnologias, especializado en Python y webscraping. </h3>-->
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FD80F&width=435&lines=Programador+en+múltiples+tecnologías;Especialista+en+Python+y+webscraping;.+.+." alt="Typing SVG" /></a></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Python+Developer+%F0%9F%92%BB;Web+Scraping+Specialist;Transitioning+into+Machine+Learning" alt="Typing SVG" /></a></div>
 
 
->Cuando no sé cómo resolver un problema, tengo la habilidad de conseguir a la persona adecuada que lo sabe.
+>I'm leveraging my Python background to specialize in Data Infrastructure and MLOps.
 <hr/>
 <p>
 <img alt="Static Badge" src="https://img.shields.io/badge/Mi%20Stack-FARM-blue?labelColor=595959"> 
