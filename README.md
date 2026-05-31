@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ## 😉 About Me
 
-- 🧠 Passionate about Code Optimization, prioritizing speed and **Resource Efficiency**
+- 🧠 Passionate about code optimization, prioritizing speed and **resource efficiency**
 
 - 🌱 Currently learning **English & MLOps**
 
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 - 📫 Reach me at: **albornoz1995@gmail.com**
 
-- 😄 Outside of tech, I love **Dancing and Drawing**
+- 😄 Outside of tech, I love **dancing and drawing**
 
 <br/>
 
